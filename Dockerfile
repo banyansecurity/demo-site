@@ -1,4 +1,4 @@
-FROM amd64/nginx
+FROM nginx
 MAINTAINER Banyan Support support@banyansecurity.io
 
 COPY html /usr/share/nginx/html
